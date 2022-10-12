@@ -2,4 +2,5 @@
 # https://github.com/codeschool43/Build_in_function_homework#build_func03
 
 n =3.5
-print (3*((n+1)**2))
+answer =3*((n+1)**2)
+print (answer)
