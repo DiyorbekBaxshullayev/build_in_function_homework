@@ -3,4 +3,5 @@
 
 x =5
 y =2
-print (x**2 + 6*x**3 + 3*x*y)
+answer =x**2 + 6*x**3 + 3*x*y
+print (answer)
