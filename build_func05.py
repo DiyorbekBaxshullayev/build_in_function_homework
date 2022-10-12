@@ -3,4 +3,5 @@
 
 x =6
 n =3
-print (x**n + n**x)
+answer =x**n + n**x
+print (answer)
