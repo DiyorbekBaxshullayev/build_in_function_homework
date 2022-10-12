@@ -3,4 +3,5 @@
 
 x =2
 y =4
-print (2*(y**3 + x**2*y))
+answer =2*(y**3 + x**2*y)
+print (answer)
