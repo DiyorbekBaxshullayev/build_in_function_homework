@@ -3,4 +3,5 @@
 
 x =7 
 y =1
-print (5*x**2 + y**3 + x*y**2)
+answer =5*x**2 + y**3 + x*y**2
+print (answer)
