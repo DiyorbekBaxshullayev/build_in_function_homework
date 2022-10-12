@@ -3,5 +3,5 @@
 
 x =8
 y =4
-answer =3*y**(1/2) + x**(2/3)
+answer =(round(3*pow(y,(1/2)) + pow(x,(2/3)),2))
 print (answer)
